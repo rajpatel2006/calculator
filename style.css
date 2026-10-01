@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color: beige;
+    margin: 5px;
+    padding: 5px%;
+}
+.flex{
+    display:flex;
+}
+.button{
+    padding:5px;
+    border-radius: 2px;
+    margin:3px;
+}
